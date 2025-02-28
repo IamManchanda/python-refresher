@@ -1,7 +1,3 @@
-import random
-import sys
-import os
-
 super_villains = {
 	'Fiddler' : 'Isaac Bowin',
 	'Captain Cold' : 'Leonard Snart',

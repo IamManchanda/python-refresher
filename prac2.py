@@ -1,7 +1,3 @@
-import random
-import sys
-import os
-
 grocery_list = ['Juice', 'Tomatoes', 'Potatoes', 'Bananas']
 
 print(grocery_list[0])

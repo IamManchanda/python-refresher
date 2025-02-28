@@ -1,7 +1,3 @@
-import random
-import sys
-import os
-
 pi_tuple = (3, 1, 4, 1, 5, 9)
 print(pi_tuple)
 

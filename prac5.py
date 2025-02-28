@@ -1,7 +1,3 @@
-import random
-import sys
-import os
-
 age = 30
 
 if age > 18 :
